@@ -146,12 +146,11 @@ Developed an AI-powered document understanding system that extracts, classifies,
 
 ---
 
-## 📊 Machine Learning Prediction Platform
-**Tech Stack:** Scikit-learn, MLflow, Docker, Kubernetes
+🩺 Breast Cancer Diagnosis Predictor
 
-Created an end-to-end ML platform for model training, deployment, monitoring, and automated retraining.
-
-🔗 Repository: *(Add GitHub Link)*
+Tech Stack: Scikit-learn, FastAPI, Streamlit, Docker, Pytest
+Built an end-to-end ML pipeline for model training, REST API deployment, and interactive prediction demo — fully open-source with no paid services.
+🔗 Repository: https://github.com/rlaxmidevir03/ml-diagnosis-pipeline
 
 ---
 
