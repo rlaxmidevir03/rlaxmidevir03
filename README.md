@@ -142,7 +142,7 @@ Designed a multi-agent AI assistant capable of planning, tool calling, memory ma
 
 Developed an AI-powered document understanding system that extracts, classifies, summarizes, and answers questions over PDFs.
 
-🔗 Repository: *(Add GitHub Link)*
+🔗 Repository: https://github.com/rlaxmidevir03/intelligent-document-processing
 
 ---
 
