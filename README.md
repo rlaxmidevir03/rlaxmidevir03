@@ -159,7 +159,7 @@ Created an end-to-end ML platform for model training, deployment, monitoring, an
 
 📥 **Download Resume**
 
-👉 *(Add Google Drive or GitHub PDF Link Here)*
+👉 https://github.com/rlaxmidevir03/Resume
 
 ---
 
@@ -167,7 +167,7 @@ Created an end-to-end ML platform for model training, deployment, monitoring, an
 
 📧 Email: **rlaxmidevir03@gmail.com**
 
-💼 LinkedIn: **https://linkedin.com/in/YOUR-LINKEDIN**
+💼 LinkedIn: **https://www.linkedin.com/in/ramalaxmi-r-a3054738b/**
 
 🌐 Portfolio: **Coming Soon**
 
