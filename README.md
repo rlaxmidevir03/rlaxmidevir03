@@ -6,7 +6,7 @@
 
 # 🚀 About Me
 
-I'm an AI/ML Engineer with 3+ years of experience building enterprise Machine Learning and Generative AI solutions. I specialize in Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Agentic AI, MLOps, and cloud-native AI applications. I enjoy designing scalable AI systems, deploying production-ready ML models, and solving real-world business problems using modern AI technologies.
+I'm an AI/ML Engineer with 5+ years of experience building enterprise Machine Learning and Generative AI solutions. I specialize in Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Agentic AI, MLOps, and cloud-native AI applications. I enjoy designing scalable AI systems, deploying production-ready ML models, and solving real-world business problems using modern AI technologies.
 
 ---
 
